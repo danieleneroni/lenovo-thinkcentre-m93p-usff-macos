@@ -1,4 +1,4 @@
-![Lenovo ThinkCentre M93p](https://github.com/danieleneroni/lenovo-thinkcentre-m93p-usff-macos/blob/m93p_usff.jpg?raw=true)
+![Lenovo ThinkCentre M93p](https://github.com/danieleneroni/lenovo-thinkcentre-m93p-usff-macos/m93p_usff.jpg?raw=true)
 
 # Lenovo ThinkCentre M93p USFF macOS BigSur 11.2.1 OpenCore 0.6.6
 
